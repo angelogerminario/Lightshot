@@ -4,7 +4,6 @@ import 'dart:io';
 import 'package:exif/exif.dart';
 import 'package:flutter/services.dart';
 import 'package:macos_ui/macos_ui.dart';
-import 'package:zoom_widget/zoom_widget.dart';
 import './keypress.dart';
 import './datatypes.dart';
 
@@ -33,7 +32,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
           primarySwatch: Colors.blue,
           colorScheme: ColorScheme.fromSeed(
-              seedColor: Color.fromARGB(255, 255, 251, 0),
+              seedColor: Color.fromARGB(255, 0, 76, 255),
               brightness: Brightness.dark)),
       home: const ImageViewerPage(),
     );

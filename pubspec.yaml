@@ -39,7 +39,7 @@ dependencies:
   simple_loading_dialog: ^1.0.0
   macos_ui: ^2.0.9
   exif: ^3.3.0
-  zoom_widget: ^2.0.1
+  flutter_launcher_icons: ^0.14.2
 
 dev_dependencies:
   flutter_test:
