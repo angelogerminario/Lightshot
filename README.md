@@ -1,5 +1,7 @@
 # Lightshot
 
+![cover image](https://raw.githubusercontent.com/angelogerminario/Lightshot/refs/heads/main/coverimage.jpg)
+
 A simple, fast photo culling app I built for myself because I didn't want to pay for expensive culling software. Built in a day using Flutter, it's designed to be faster than macOS Finder when working with RAW files (Sony ARW and Nikon NEF supported).
 
 ## What it Does
